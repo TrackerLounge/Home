@@ -2,6 +2,8 @@
 Main Menu of Projects
 
 # Tracking
+[Three Box Tracking Pit for the Home Shop](https://github.com/TrackerLounge/ThreeBoxTrackingPitForTheHomeShop)
+
 [Experiments with Image Processing, Computer Vision, and Machine Learning and Tracking](https://github.com/TrackerLounge/TrackingAndComputerVision)
 
 # Martial Arts
