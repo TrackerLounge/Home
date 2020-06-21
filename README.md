@@ -4,7 +4,7 @@ Main Menu of Projects
 # Tracking
 [Three Box Tracking Pit for the Home Shop](https://github.com/TrackerLounge/ThreeBoxTrackingPitForTheHomeShop)
 
-[Tracking and Photogrammetry](https://github.com/TrackerLounge/TrackingAndPhotogrammetry)
+[Tracking and Photogrammetry](https://github.com/TrackerLounge/TrackingAndPhotogrammetry) - Convert pictures of a track into a digital model
 
 [Experiments with Image Processing, Computer Vision, and Machine Learning and Tracking](https://github.com/TrackerLounge/TrackingAndComputerVision)
 
