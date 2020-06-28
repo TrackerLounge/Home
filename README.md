@@ -8,6 +8,9 @@ A tracking pit is used to study pressure releases in a track to determine the sp
 [Tracking and Photogrammetry](https://github.com/TrackerLounge/TrackingAndPhotogrammetry)
 Convert pictures of a track or foot print into a digital model of the track for further forensic analysis. This can also aid in examining pressure releases. Such a digital model can server as a useful teaching aid.
 
+[Tracking and Edge Detection](https://github.com/TrackerLounge/TrackingAndEdgeDetection)
+Computer vision relies on edge detection and object segmentation to make sense of the world. Edge detection on footprints or tracks is very difficult. On this page we will explore/experiment/evaluate some image processing pipelines to find the edge of a track for image segmentation purposes.
+
 [Experiments with Image Processing, Computer Vision, and Machine Learning and Tracking](https://github.com/TrackerLounge/TrackingAndComputerVision)
 Experiment with Machine Learning to identify a footprint as 'right' or 'left'
 Experiment to identify the edge of a track or footprint using edge detection to improve the ability of TensorFlow to identify a foot print as 'right' or 'left' 
