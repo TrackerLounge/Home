@@ -5,6 +5,9 @@ Main Menu of Projects
 [Three Box Tracking Pit for the Home Shop](https://github.com/TrackerLounge/ThreeBoxTrackingPitForTheHomeShop)
 A tracking pit is used to study pressure releases in a track to determine the speed, direction and body position of a individual or animal at that snapshot in time. This page describes a small tracking pit setup ideal when space is limited consisting of 3 boxes containing: hard packed sand, moist soft sand, and dry loose sand.  
 
+[Digital Tracking Pit](https://github.com/TrackerLounge/DigitalTrackingPit)
+A collection of tracks (foot prints) 3D models depicting common walking patterns and pressure releases.
+
 [Tracking and Photogrammetry](https://github.com/TrackerLounge/TrackingAndPhotogrammetry)
 Convert pictures of a track or foot print into a digital model of the track for further forensic analysis. This can also aid in examining pressure releases. Such a digital model can server as a useful teaching aid.
 
