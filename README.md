@@ -15,9 +15,12 @@ Convert pictures of a track or foot print into a digital model of the track for 
 Computer vision relies on edge detection and object segmentation to make sense of the world. Edge detection on footprints or tracks is very difficult. On this page we will explore/experiment/evaluate some image processing pipelines to find the edge of a track for image segmentation purposes.
 
 [Experiments with Image Processing, Computer Vision, and Machine Learning and Tracking](https://github.com/TrackerLounge/TrackingAndComputerVision)
-Experiment with Machine Learning to identify a footprint as 'right' or 'left'
-Experiment to identify the edge of a track or footprint using edge detection to improve the ability of TensorFlow to identify a foot print as 'right' or 'left' 
+Experiment with Machine Learning to identify a footprint as 'right' or 'left'.
+
+Experiment to identify the edge of a track or footprint using edge detection to improve the ability of TensorFlow to identify a foot print as 'right' or 'left'.
+
 Experiment to see if additional pre-processing could improve edge detection on a foot print in sand or dirt. This included coloring the track based on the Z-axis (or by elevation) and adding topographic lines to the track and surrounding surface. 
+
 These techniques were utilized to read and evaluate pressure releases in the track.
 
 # Martial Arts
