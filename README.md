@@ -25,4 +25,4 @@ These techniques were utilized to read and evaluate pressure releases in the tra
 A training dummy that can be built at home and used to practice martial art joint locks common to Tai Chi Chin Na, Aikido, Judo, etc. The build process is provided here.
 
 [DIY Wing Chun Training Dummy - Little Wing](https://github.com/TrackerLounge/LittleWing)
-A doorframe mounte Wing Chun dummy that can be installed in an apartment when space is limited. The build process is provided here.
+A Wing Chun dummy mounted in a door way or door frame, that can be installed in an apartment when space is limited. The build process is provided here.
