@@ -12,7 +12,7 @@ A collection of tracks (foot prints) 3D models depicting common walking patterns
 Convert pictures of a track or foot print into a digital model of the track for further forensic analysis. This can also aid in examining pressure releases. Such a digital model can server as a useful teaching aid.
 
 [Tracking and Edge Detection](https://github.com/TrackerLounge/TrackingAndEdgeDetection)
-Computer vision relies on edge detection and object segmentation to make sense of the world. Edge detection on footprints or tracks is very difficult. On this page we will explore/experiment/evaluate some image processing pipelines to find the edge of a track for image segmentation purposes.
+Computer vision relies on edge detection and object segmentation to make sense of the world. Edge detection on footprints or tracks is very difficult. On this page we will explore/experiment/evaluate some image processing pipelines to find the edge of a track for image segmentation purposes. We will try direct edge detection, thresholding and edge detection, edge detection by segmentation, and edge detection by FFT (Fast Fourier Transform), among others.
 
 [Experiments with Image Processing, Computer Vision, and Machine Learning and Tracking](https://github.com/TrackerLounge/TrackingAndComputerVision)
 Experiment with Machine Learning to identify a footprint as 'right' or 'left'.
