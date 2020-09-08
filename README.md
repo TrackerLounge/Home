@@ -20,6 +20,9 @@ I implemented logic in Java and OpenCV, to create HOG Descriptors for a track. I
 [Tracking and SURF Feature Descriptions in Java OpenCV](https://github.com/TrackerLounge/OpenCVSURF)
 I show how to compile opencv and opencv_contrib on your local machine to run SURF feature descriptions on a track image. I am curious to see how well this works on different types of track images.
 
+[Experiment in image comparison - Track And Sole Comparison](https://github.com/TrackerLounge/TrackAndSoleComparison)
+I experimented with an image of a track and an image of a shoe sole to see if I could match the track to the shoe sole. I tried a number of pre-processing steps to make the image of the track and shoe sole look as similar as possible (e.g. bandpass filter, make binary, edge detection, etc.). In the experiment, I did not know what bandpass filter settings were best, so I automated the process to generated many versions of the images by varying the values. I compare resulting images using SURF. The experiment was a failure.
+
 [Experiments with Image Processing, Computer Vision, and Machine Learning and Tracking](https://github.com/TrackerLounge/TrackingAndComputerVision)
 Experiment with Machine Learning to identify a footprint as 'right' or 'left'.
 
