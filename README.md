@@ -23,6 +23,9 @@ I show how to compile opencv and opencv_contrib on your local machine to run SUR
 [Experiment in image comparison - Track And Sole Comparison](https://github.com/TrackerLounge/TrackAndSoleComparison)
 I experimented with an image of a track and an image of a shoe sole to see if I could match the track to the shoe sole. I tried a number of pre-processing steps to make the image of the track and shoe sole look as similar as possible (e.g. ImageJ bandpass filter, make binary, edge detection, etc.). In the experiment, I did not know what bandpass filter settings were best, so I automated the process to generated many versions of the images by varying the values. I compare resulting images using SURF. The experiment was a failure.
 
+[Experiment with OpenCV matchTemplate()](https://github.com/TrackerLounge/OpenCVTemplateMatch)
+Explore OpenCV's matchTemplates() method, to find similar images in a scene image. Draw a bounding box around all matching images above a given threshold. Experiment with rotating and scaling the template to find variations in the scene. Extract these matches and align them all so they share the same degree of rotation and can be compared side by side.
+
 [Experiments with Image Processing, Computer Vision, and Machine Learning and Tracking](https://github.com/TrackerLounge/TrackingAndComputerVision)
 Experiment with Machine Learning to identify a footprint as 'right' or 'left'.
 
