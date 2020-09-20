@@ -17,6 +17,9 @@ Computer vision relies on edge detection and object segmentation to make sense o
 [Tracking and Hog Descriptors in Java OpenCV](https://github.com/TrackerLounge/TrackingAndHogDescriptorInJavaOpenCV)
 I implemented logic in Java and OpenCV, to create HOG Descriptors for a track. I was curious to see how the process might work with my test images.
 
+[Java OpenCV HOG Image Comparison and Matching](https://github.com/TrackerLounge/TrackingAndHogDescriptorInJavaOpenCV/tree/master/HOGCompare)
+I experimented with OpenCV HOGDescriptor - compute(), detect() and detectMultiScale() to see how will it will work when comparing a footprint (track) to a shoe sole. It appears that HOGs are too lenient for this purpose, finding matches on too dissimilar tracks and shoe soles.
+
 [Tracking and SURF Feature Descriptions in Java OpenCV](https://github.com/TrackerLounge/OpenCVSURF)
 I show how to compile opencv and opencv_contrib on your local machine to run SURF feature descriptions on a track image. I am curious to see how well this works on different types of track images.
 
